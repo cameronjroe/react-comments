@@ -1,0 +1,20 @@
+[
+  {
+    "author": {
+      "name": "Cameron"
+    },
+    "message": "Just leaving a nice comment. ;)"
+  },
+  {
+    "author": {
+      "name": "Sarah"
+    },
+    "message": "Cameron leaves the coolest comments!"
+  },
+  {
+    "author": {
+      "name": "Robot"
+    },
+    "message": "Still a robot over here..."
+  }
+]
